@@ -1,1 +1,6 @@
-111
+<info>
+ <full_name>"Chigretskyi Andrii Mihaylovich"</full_name>,
+ <age>32</age>,
+ <number_of_pets>0</number_of_pets>,
+ <expected_salary>1000</expected_salary>
+</info>
